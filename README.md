@@ -42,15 +42,22 @@ https://docs.google.com/document/d/1aD7R886ytZHlxEzsMcSlq0C39gnjEzMIkawCLagRcxo/
 ## Sección Académica
 Para quienes quieren ver el proceso técnico y metodológico completo.
 
-- [Notebooks (5 módulos)](https://github.com/Malena-Rodriguez97/Portafolio-inmobiliario-ciudad-de-la-costa/tree/main/notebooks) — 
-  Proceso de análisis paso a paso, de la limpieza de datos a la historización.
-  - [Manual educativo de SQL](link) — Guía de las consultas usadas en 
-  el proyecto.
-- [Navegación académica](link) — Índice de qué contiene cada notebook.
-- [Ficha técnica del panel](link) — Fuente de datos, dimensiones y 
-  métricas de cada visual.
+- Navegación académica: índice de qué contiene cada notebook.
+
+  https://docs.google.com/document/d/1f_0UlJfloWyq_laefkO3sraI1qrEi6fSDnyjk1iOLM4/edit?usp=sharing
+
+- Notebooks (5 módulos): proceso de análisis paso a paso, de la limpieza de datos a la historización.
+
+  https://github.com/Malena-Rodriguez97/Portafolio-inmobiliario-ciudad-de-la-costa/tree/main/notebooks
+
+- Manual educativo de SQL: guía de las consultas usadas en el proyecto.
+
+  https://drive.google.com/file/d/11GNC1zG72PgXN402PV0DwvuUzCIeYhT0/view?usp=sharing
+    
+- Ficha técnica del panel: fuente de datos, dimensiones y métricas de cada visual.
+
+  https://docs.google.com/document/d/11GQ0xTzCBDPsQiJSh-49vigQQsUFSqRkG_nRKuXzHss/edit?usp=sharing
 
 
-
-📍 Ciudad de la Costa, Uruguay — Julio 2026  
-👤 Malena Rodríguez — Análisis de Datos & Business Intelligence
+Ciudad de la Costa, Uruguay — Julio 2026  
+Malena Rodríguez — Análisis de Datos & BI
