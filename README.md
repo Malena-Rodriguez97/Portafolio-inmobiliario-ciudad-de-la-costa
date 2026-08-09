@@ -3,6 +3,8 @@
 Análisis académico de 555 propiedades en venta y alquiler en 6 barrios de Ciudad 
 de la Costa. 
 
+Incluye una simulación de consultoría empresarial (cómo estructuraría una investigación de mercado real si una inmobiliaria me proveyera sus Datos) y el desarrollo técnico completo del proceso.
+
 Fuente: Mercado Libre Uruguay. 
 
 Herramientas: BigQuery + SQL + Google Colab + Looker Studio.
