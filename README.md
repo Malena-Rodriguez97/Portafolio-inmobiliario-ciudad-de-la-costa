@@ -41,7 +41,7 @@ Para perfiles de negocio, inversión y BI.
 https://docs.google.com/document/d/1aD7R886ytZHlxEzsMcSlq0C39gnjEzMIkawCLagRcxo/edit?usp=sharing
 
 
-## Sección Académica
+## Sección Metodológica
 Para quienes quieren ver el proceso técnico y metodológico completo.
 
 - Navegación académica: índice de qué contiene cada notebook.
@@ -60,6 +60,6 @@ Para quienes quieren ver el proceso técnico y metodológico completo.
 
   https://docs.google.com/document/d/11GQ0xTzCBDPsQiJSh-49vigQQsUFSqRkG_nRKuXzHss/edit?usp=sharing
 
-
-Ciudad de la Costa, Uruguay — Julio 2026  
+  
 Malena Rodríguez — Análisis de Datos & BI
+ Ciudad de la Costa, Uruguay — Julio 2026
