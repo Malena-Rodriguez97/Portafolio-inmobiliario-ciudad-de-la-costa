@@ -54,7 +54,7 @@ Para quienes quieren ver el proceso técnico y metodológico completo.
 
 - Manual educativo de SQL: guía de las consultas usadas en el proyecto.
 
-  https://drive.google.com/file/d/11GNC1zG72PgXN402PV0DwvuUzCIeYhT0/view?usp=sharing
+  https://drive.google.com/file/d/1yrjn0KmDfEUe17siDEVzijhLQ-Cl2oSi/view?usp=drivesdk
     
 - Ficha técnica del panel: fuente de datos, dimensiones y métricas de cada visual.
 
